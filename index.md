@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to Shahzad's CS-499 ePortfolio
 
 You can use the [editor on GitHub](https://github.com/ShahzadSatarAlikhan/ShahzadSatarAlikhan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+## Introduction
+```
+Hello everyone, I’ve been in the SNHU Computer Science program since May of 2017. I started school at Orange county community college taking computer information systems before transferring to Katherine Gibbs for digital media communications from 2000 to 2005. I ended up dropping out of Katherine Gibbs when the school officially closed down. I’m now wishing to complete one of my final classes for the Computer Science program and subsequently gain my bachelor’s degree.
+```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
