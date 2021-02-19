@@ -8,6 +8,8 @@ Hello everyone, I’ve been in the SNHU Computer Science program since May of 20
 
 ## Educational Reflection
 
+I’ve discovered a lot of things while in the computer science program. Initially, I realized that paying attention to all the details is a vital ability to have just in general, but also works well when dealing with programming projects.  Numerous times my code has neglected to assemble, all because of a simplistic blunder within this code.  Having awareness of all the different details correlates to the theory of code reviews. During engagement of code reviews,  peers normally analyze our code and scan for errors that we may have failed to perceive.  Having a new outlook can benefit in finding disregarded indiscretions. A further notion that I’ve determined is essential values with testing mechanisms.  Testing is crucial to many applications even outside of computer science. assuring that a program operates correctly is key to having a functional application as it grows more complex as the project develops.  Embracing the thought processes of a tester is challenging let alone having to comprehend how to divulge anything that achieves to expose the imperfections in your designs. Ultimately, studying the software development lifecycle was flabbergasting to me.  There is a lot of engineering and work that goes toward designing a large-size project while organizing with colleagues. Furthermore, being able to read the demands of the customer and translating those requirements into a path for representatives is essential.
+
 > Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
