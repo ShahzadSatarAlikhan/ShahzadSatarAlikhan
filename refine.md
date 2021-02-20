@@ -1,6 +1,4 @@
-# Welcome to Shahzad's CS-499 ePortfolio refinement page!
 
-You can use the [editor on GitHub](https://github.com/ShahzadSatarAlikhan/ShahzadSatarAlikhan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ## Refinement Plan & Code Review
 ### Category One: Software Engineering/Design
