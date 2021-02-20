@@ -1,6 +1,6 @@
 # Welcome to Shahzad's CS-499 ePortfolio
 
-You can use the [editor on GitHub](https://github.com/ShahzadSatarAlikhan/ShahzadSatarAlikhan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the list on the left to quick jump!
 
 ## Introduction
 
