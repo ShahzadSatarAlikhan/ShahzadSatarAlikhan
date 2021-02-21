@@ -24,13 +24,14 @@ Finally, my third enhancement draws from both DAT-220 and CS-340.  I decided to 
 My situation right now does not heavily rely on programming skills.  Nevertheless, possessing certain skills could unlock added possibilities in the future.  By expressing my talents, I could relocate to another state and gain further programming exposure.  Presently, my occupation plans are on hold.  I have less than three classes left till I graduate but don’t have anything arranged after I graduate.  The common outcome is that hopefully, I can retire through passive income projects existing in the digital realm.  I’d like to have 100% job security of not having to work while generating passive income with digital assets instead of just 10 - 25%.  I plan to concentrate on that since I'm limited on what I can do in 24 hours.
 
 
+
 # Portfolio links
 
 - link 1[Professional Self Assesment](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/index)
 - link 2[Refinement plan and Code Review](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/refine)
 - link 3[Enhancement One](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e1)
-- link 3[Enhancement Two](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e2)
-- link 3[Enhancement Three](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e3)
+- link 4[Enhancement Two](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e2)
+- link 5[Enhancement Three](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e3)
 
 
 
