@@ -46,25 +46,4 @@ For my CS499 final project, I did work outside my courses.  I wanted to adopt th
 - link 3[Enhancement Three](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e3)
 
 
-### Markdown
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1 hi how are you
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
