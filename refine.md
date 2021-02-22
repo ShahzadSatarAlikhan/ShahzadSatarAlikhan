@@ -29,8 +29,8 @@ For my CS499 final project, I did work outside my courses.  I wanted to adopt th
 ## Code Review
 
 
-[![](http://img.youtube.com/vi/iRjiOqHQLv4/0.jpg)](http://www.youtube.com/watch?v=iRjiOqHQLv4 "test")
 
+[![Code Review](http://img.youtube.com/vi/lxDUY-Ym8m0/0.jpg)](http://www.youtube.com/watch?v=lxDUY-Ym8m0 "Code Review")
 
 
 
