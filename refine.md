@@ -43,7 +43,7 @@ For my CS499 final project, I did work outside my courses.  I wanted to adopt th
 ### Portfolio Links
 
 - link 1[Professional Self Assesment](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/index)
-- link 2[Refinement plan and Code Review](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/refine)
+- link 2[Refinement Plan and Code Review](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/refine)
 - link 3[Enhancement One](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e1)
 - link 4[Enhancement Two](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e2)
 - link 5[Enhancement Three](https://shahzadsataralikhan.github.io/ShahzadSatarAlikhan/e3)
