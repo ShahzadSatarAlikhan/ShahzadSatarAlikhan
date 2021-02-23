@@ -7,7 +7,7 @@ The artifact that I chose for the Software Engineering/Design enhancement is imp
 
 ### Category Two: Algorithms and Data Structures
 
-The artifact that I chose for the Algorithms and Data Structures enhancement is implementing more functions to a calculator app. The planned improvements for this project are implementing scientific calculations and GUI. For this portion of the project, I would like to utilize what I learned dealing with application development and algorithms. For my final project, I would like to apply what I learned to my C++ calculator app. To accomplish this, I intend to take the experiences that I learned and do more research on applying scientific algorithms and GUI. This portion should illustrate my skills in Algorithms and Data Structures. 
+The artifact that I chose for the Algorithms and Data Structures enhancement is implementing more functions to a calculator app. The planned improvements for this project are implementing scientific calculations and GUI. For this portion of the project, I would like to utilize what I learned dealing with application development and algorithms. For my final project, I would like to apply what I learned making a my C++ calculator app a while back to the new C# calculator app. To accomplish this, I intend to take the experiences that I learned and do more research on applying scientific algorithms and GUI. This portion should illustrate my skills in Algorithms and Data Structures. 
 
 ### Category Three: Databases
 
